@@ -11,7 +11,7 @@ Olá! Meu nome é Luiza e sou uma estudante apaixonada por programação e tecno
 ## 🌐 Redes:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luiza-benevides) 
 
-# 💻 Habilidades Desenvolvidas no Projeto:
+# 💻 Habilidades Desenvolvidas:
 <img 
     align="left" 
     alt="HTML"
@@ -27,6 +27,14 @@ Olá! Meu nome é Luiza e sou uma estudante apaixonada por programação e tecno
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 <br/>
 <br/>
