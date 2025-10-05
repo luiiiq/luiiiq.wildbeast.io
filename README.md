@@ -38,12 +38,19 @@ Olá! Meu nome é Luiza e sou uma estudante apaixonada por programação e tecno
 />
 <br/>
 <br/>
-# 📊 GitHub Estatísticas:
-![](https://github-readme-stats.vercel.app/api?username=luiiiq&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=luiiiq&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=luiiiq&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=luiiiq&icon=0&color=0)](https://visitcount.itsvg.in)
-
+# 📊 Estatísticas:
+<img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=luiiiq&show_icons=true&theme=radical&locale=pt-br"
+/>
+<img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiiiq&theme=radical&custom_title=Tecnologias"
+/>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
